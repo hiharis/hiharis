@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @hiharis
-- 👀 I’m interested in coding (c++) ...
-- 🌱 I’m currently learning ARTIFICAIL INTELLIGENCE...
-- 💞️ I’m looking to collaborate on Simple intersting Projects...
-- 📫 How to reach me gmail : hariskhan.forwork@gmail.com...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: despite being an AI student i like to think about other topics outside TECH..
+👋 Hi, I’m @hiharis
 
-<!---
-hiharis/hiharis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in coding (C++, Java, Python) and exploring AI.
+
+🌱 I’m currently learning Artificial Intelligence, Databases (SQL), and Advanced Programming Concepts.
+
+💻 I enjoy working on machine learning, automation, and problem-solving projects.
+
+💞️ I’m looking to collaborate on simple yet interesting projects related to AI and software development.
+
+📫 Reach me at hariskhan.forwork@gmail.com.
+
+😄 Pronouns: he/him.
+
+⚡ Fun fact: Despite being an AI student, I love discussing non-tech topics like philosophy and creativity!
