@@ -1,15 +1,9 @@
-👋 Hi, I’m @hiharis
-
-👀 I’m interested in coding (C++, Java, Python) and exploring AI.
-
-🌱 I’m currently learning Artificial Intelligence, Databases (SQL), and Advanced Programming Concepts.
-
-💻 I enjoy working on machine learning, automation, and problem-solving projects.
-
-💞️ I’m looking to collaborate on simple yet interesting projects related to AI and software development.
-
-📫 Reach me at hariskhan.forwork@gmail.com.
-
-😄 Pronouns: he/him.
-
-⚡ Fun fact: Despite being an AI student, I love discussing non-tech topics like philosophy and creativity!
+👋 Hi, I'm @hiharis
+⚡ CS student @ BIIT | AI/ML Engineering Intern @ DevelopersHub
+🤖 Currently deep in — Machine Learning, Deep Learning, Cloud (AWS), and everything AI
+🔭 Building projects in Python, exploring the chaos where geopolitics meets tech
+📹 Running a CS/student life YouTube & Instagram channel → Debugging Life (@DebuggingLife_911)
+💞️ Open to collabs on AI, automation, and anything that solves real problems
+🌍 From Pakistan — where surviving the economy is its own engineering problem
+📫 hariskhan.forwork@gmail.com
+😄 He/him
